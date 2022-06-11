@@ -1,8 +1,11 @@
 # beacademy-devstart-logicadeprogramacao
+Autor Mateus Figueredo 
 
-## Entregável lógica de programação do programa devstart da beacademy em parceria com a paylivre.
-<hr>
-<a href="https://github.com/figmateus/exercicios/exercicio1">Exercicio 1<a/><br>
+### Entregável lógica de programação do programa devstart da beacademy em parceria com a paylivre.
+
+1. Exercicio da troca de pneu de carro,
+<a href="https://github.com/figmateus/exercicios/exercicio1">Resolução<a/><br>
+2. Solicitar endereço e imprimir na tela  
 <a href="https://github.com/figmateus/exercicios/exercicio1">Exercicio 2<a/><br>
 <a href="https://github.com/figmateus/exercicios/exercicio1">Exercicio 3<a/><br>
 <a href="https://github.com/figmateus/exercicios/exercicio1">Exercicio 4<a/><br>
