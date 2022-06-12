@@ -4,10 +4,10 @@ Autor Mateus Figueredo
 ### Entregável lógica de programação do programa devstart da beacademy em parceria com a paylivre.
 
 1. Exercicio da troca de pneu de carro,
-<a href="https://github.com/figmateus/exercicios/exercicio1">Resolução<a/><br>
+<a href="https://github.com/figmateus/exercicios/exercicio1.txt">Resolução<a/><br>
 
 2. Algoritimo IMC  
-<a href="https://github.com/figmateus/exercicios/exercicio2.txt">Exercicio 2<a/><br>
+<a href="https://github.com/figmateus/exercicios/exercicio2.ALG">Exercicio 2<a/><br>
 
 3. Algoritimo que verifica Idade
 <a href="https://github.com/figmateus/exercicios/exercicio3.ALG">Exercicio 3<a/><br>
